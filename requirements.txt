@@ -1,0 +1,7 @@
+streamlit
+speechrecognition
+wikipedia
+gTTS
+pyttsx3
+pydub
+ffmpeg-python
